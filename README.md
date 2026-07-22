@@ -30,7 +30,7 @@ timeline
     2027 : 🎯 To Be Continued...
 ```
 
-<table align="center">
+<table width="100%">
   <tr>
     <th align="center">📅 时间</th>
     <th align="center">🏫 学校</th>
@@ -76,7 +76,7 @@ timeline
 
 *📌 更多项目正在路上，敬请期待～*
 
-<table align="center">
+<table width="100%">
   <tr>
     <th align="center">🛠️ Project</th>
     <th align="center">📝 Description</th>
