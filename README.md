@@ -30,23 +30,10 @@ timeline
     2027 : 🎯 To Be Continued...
 ```
 
-<table width="100%">
-  <tr>
-    <th align="center">📅 时间</th>
-    <th align="center">🏫 学校</th>
-    <th align="center">📚 专业</th>
-  </tr>
-  <tr>
-    <td align="center">2023 - 2026</td>
-    <td align="center">河北师范大学</td>
-    <td align="center">翻译（中外合作办学）</td>
-  </tr>
-  <tr>
-    <td align="center">2026 - 2027</td>
-    <td align="center">University of Stirling</td>
-    <td align="center">Translation & Interpreting</td>
-  </tr>
-</table>
+| 📅 时间 | 🏫 学校 | 📚 专业 |
+| :---: | :---: | :---: |
+| 2023 - 2026 | 河北师范大学 | 翻译（中外合作办学） |
+| 2026 - 2027 | University of Stirling | Translation & Interpreting |
 
 ---
 
@@ -76,28 +63,11 @@ timeline
 
 *📌 更多项目正在路上，敬请期待～*
 
-<table width="100%">
-  <tr>
-    <th align="center">🛠️ Project</th>
-    <th align="center">📝 Description</th>
-    <th align="center">🏷️ Tech</th>
-  </tr>
-  <tr>
-    <td align="center">✨ <i>Coming Soon</i></td>
-    <td>项目一：待更新</td>
-    <td align="center">-</td>
-  </tr>
-  <tr>
-    <td align="center">✨ <i>Coming Soon</i></td>
-    <td>项目二：待更新</td>
-    <td align="center">-</td>
-  </tr>
-  <tr>
-    <td align="center">✨ <i>Coming Soon</i></td>
-    <td>项目三：待更新</td>
-    <td align="center">-</td>
-  </tr>
-</table>
+| 🛠️ Project | 📝 Description | 🏷️ Tech |
+| :---: | :--- | :---: |
+| ✨ *Coming Soon* | 项目一：待更新 | - |
+| ✨ *Coming Soon* | 项目二：待更新 | - |
+| ✨ *Coming Soon* | 项目三：待更新 | - |
 
 ---
 
