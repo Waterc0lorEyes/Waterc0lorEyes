@@ -13,7 +13,7 @@
 ### 🧸 About Me / 关于我
 
 - 🎓 河北师范大学 翻译（中外合作办学）2023级本科生
-- ✈️ 2025年9月赴 **英国斯特灵大学** 交换学习一年
+- ✈️ 2026年9月赴 **英国斯特灵大学** 交换学习一年
 - 📖 热爱语言、技术与跨文化交流
 - 💡 善于用 AI 工具提升翻译效率，用代码解决实际问题
 - 🌱 正在探索 AI + 翻译的无限可能
@@ -26,14 +26,27 @@
 timeline
     title 🎒 My Academic Journey
     2023 : 🏫 河北师范大学<br>翻译（中外合作办学）
-    2025 : ✈️ 英国斯特灵大学<br>University of Stirling
-    2026 : 🎯 To Be Continued...
+    2026 : ✈️ 英国斯特灵大学<br>University of Stirling
+    2027 : 🎯 To Be Continued...
 ```
 
-| 时间 | 学校 | 专业 |
-|:---:|:---:|:---:|
-| 2023 - 2025 | 🏫 河北师范大学 | 翻译（中外合作办学） |
-| 2025 - 2026 | 🎓 University of Stirling | Translation & Interpreting |
+<table align="center">
+  <tr>
+    <th align="center">📅 时间</th>
+    <th align="center">🏫 学校</th>
+    <th align="center">📚 专业</th>
+  </tr>
+  <tr>
+    <td align="center">2023 - 2026</td>
+    <td align="center">河北师范大学</td>
+    <td align="center">翻译（中外合作办学）</td>
+  </tr>
+  <tr>
+    <td align="center">2026 - 2027</td>
+    <td align="center">University of Stirling</td>
+    <td align="center">Translation & Interpreting</td>
+  </tr>
+</table>
 
 ---
 
@@ -63,11 +76,28 @@ timeline
 
 *📌 更多项目正在路上，敬请期待～*
 
-| 🛠️ Project | 📝 Description | 🏷️ Tech |
-|:---|:---|:---|
-| ✨ *Coming Soon* | 项目一：待更新 | - |
-| ✨ *Coming Soon* | 项目二：待更新 | - |
-| ✨ *Coming Soon* | 项目三：待更新 | - |
+<table align="center">
+  <tr>
+    <th align="center">🛠️ Project</th>
+    <th align="center">📝 Description</th>
+    <th align="center">🏷️ Tech</th>
+  </tr>
+  <tr>
+    <td align="center">✨ <i>Coming Soon</i></td>
+    <td>项目一：待更新</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">✨ <i>Coming Soon</i></td>
+    <td>项目二：待更新</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">✨ <i>Coming Soon</i></td>
+    <td>项目三：待更新</td>
+    <td align="center">-</td>
+  </tr>
+</table>
 
 ---
 
