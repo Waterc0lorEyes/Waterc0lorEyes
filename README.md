@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yangyaqing&label=Profile+Views&color=6C63FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Waterc0lorEyes&label=Profile+Views&color=6C63FF&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -74,12 +74,12 @@ timeline
 ### 📊 GitHub Stats / 统计面板
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yangyaqing&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangyaqing&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Waterc0lorEyes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waterc0lorEyes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yangyaqing&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=8B949E" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waterc0lorEyes&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=8B949E" />
 </p>
 
 ---
@@ -90,7 +90,7 @@ timeline
   <a href="mailto:1364025579@qq.com">
     <img src="https://img.shields.io/badge/-QQ_Mail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/yangyaqing">
+  <a href="https://github.com/Waterc0lorEyes">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -106,6 +106,6 @@ timeline
 </p>
 
 <!--
-  ⭐️ 提示：把上面所有的 `yangyaqing` 替换成你的真实 GitHub 用户名
+  ⭐️ 提示：把上面所有的 `Waterc0lorEyes` 替换成你的真实 GitHub 用户名
   项目部分可以随时更新，添加更多内容~
 -->
