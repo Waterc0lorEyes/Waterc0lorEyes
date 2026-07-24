@@ -65,9 +65,9 @@ timeline
 
 | 🛠️ Project | 📝 Description | 🏷️ Tech |
 | :---: | :--- | :---: |
-| ✨ *Coming Soon* | 项目一：待更新 | - |
-| ✨ *Coming Soon* | 项目二：待更新 | - |
-| ✨ *Coming Soon* | 项目三：待更新 | - |
+| 📝 [翻译学习博客](https://waterc0loreyes.github.io) | 20+篇翻译实践与反思文章，涵盖笔译、英译汉、汉译英 | Hexo + Markdown |
+| 💻 个人网站 | 技术探索与学习笔记 | - |
+| 🌐 更多项目 | 敬请期待 | - |
 
 ---
 
