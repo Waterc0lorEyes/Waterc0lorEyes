@@ -88,7 +88,6 @@ timeline
   </a>
 </p>
 
-> 📝 统计基于 GitHub 官方 API，始终可用，不会挂掉。
 
 ---
 
