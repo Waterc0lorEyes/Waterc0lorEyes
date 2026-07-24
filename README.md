@@ -75,16 +75,20 @@ timeline
 
 <p align="center">
   <a href="https://github.com/Waterc0lorEyes">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waterc0lorEyes&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=6C63FF&label=GitHub&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWaterc0lorEyes&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWaterc0lorEyes&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=4ECDC4&label=Following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWaterc0lorEyes&style=for-the-badge&logo=github" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Waterc0lorEyes">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Waterc0lorEyes&theme=tokyonight" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waterc0lorEyes&theme=tokyonight" />
+  <a href="https://github.com/Waterc0lorEyes/Waterc0lorEyes.github.io">
+    <img src="https://img.shields.io/github/languages/count/Waterc0lorEyes/Waterc0lorEyes.github.io?color=6C63FF&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/languages/top/Waterc0lorEyes/Waterc0lorEyes.github.io?color=FF6B6B&style=for-the-badge" />
   </a>
 </p>
+
+> 📝 统计基于 GitHub 官方 API，始终可用，不会挂掉。
 
 ---
 
