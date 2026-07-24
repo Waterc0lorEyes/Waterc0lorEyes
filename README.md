@@ -74,12 +74,16 @@ timeline
 ### 📊 GitHub Stats / 统计面板
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Waterc0lorEyes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waterc0lorEyes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+  <a href="https://github.com/Waterc0lorEyes">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waterc0lorEyes&theme=tokyonight" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waterc0lorEyes&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=8B949E" />
+  <a href="https://github.com/Waterc0lorEyes">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Waterc0lorEyes&theme=tokyonight" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waterc0lorEyes&theme=tokyonight" />
+  </a>
 </p>
 
 ---
