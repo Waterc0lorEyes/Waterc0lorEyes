@@ -55,29 +55,13 @@ into the tooling behind it.
 
 ## 🗺️ Education
 
-```mermaid
-timeline
-    title 🎒 My academic journey
-    2023 : 🏫 Hebei Normal University<br>Translation (joint programme) · years 1–3
-    2026 : ✈️ University of Stirling<br>Final year
-    2027 : 🎓 Graduation
-```
-
-| 📅 Period | 🏫 Institution | 📚 Programme |
-| :---: | :---: | :---: |
-| 2023 – 2026 | Hebei Normal University | Translation (joint programme) · years 1–3 |
-| 2026 – 2027 | University of Stirling | Translation |
+<p align="center">
+  <img src="assets/timeline.svg" alt="2023 Hebei Normal University — 2026 University of Stirling — 2027 graduation" />
+</p>
 
 ---
 
 ## 🛠️ Toolbox
-
-<p>
-  <img src="https://img.shields.io/badge/-AI_Powered-6C63FF?style=flat-square&logo=openai&logoColor=white" alt="AI powered" />
-  <img src="https://img.shields.io/badge/-Translation-FF6B6B?style=flat-square&logo=googletranslate&logoColor=white" alt="Translation" />
-  <img src="https://img.shields.io/badge/-Scripting-4ECDC4?style=flat-square&logo=gnubash&logoColor=white" alt="Scripting" />
-  <img src="https://img.shields.io/badge/-Web_Dev-FFE66D?style=flat-square&logo=html5&logoColor=black" alt="Web dev" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -90,33 +74,18 @@ timeline
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
----
-
-## 📊 GitHub at a glance
-
-<p>
-  <img src="https://img.shields.io/badge/dynamic/json?color=6C63FF&label=repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWaterc0lorEyes&style=flat-square&logo=github" alt="Public repositories" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWaterc0lorEyes&style=flat-square&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Waterc0lorEyes/automated-translation?label=backend%20stars&color=4ECDC4&style=flat-square&logo=github" alt="Backend stars" />
-  <img src="https://img.shields.io/github/stars/Waterc0lorEyes/automated-translation-web?label=frontend%20stars&color=FFE66D&style=flat-square&logo=github" alt="Frontend stars" />
-</p>
+<sub>Also: AI-assisted translation, terminology management, and a fair amount of scripting.</sub>
 
 ---
 
 ## 📫 Let's talk
 
 <p>
-  <a href="mailto:meowuu@qq.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Waterc0lorEyes"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://waterc0loreyes.github.io"><img src="https://img.shields.io/badge/-Blog-6C63FF?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+  <a href="mailto:meowuu@qq.com"><img src="https://img.shields.io/badge/email-meowuu%40qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Waterc0lorEyes"><img src="https://img.shields.io/badge/github-Waterc0lorEyes-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://waterc0loreyes.github.io"><img src="https://img.shields.io/badge/blog-waterc0loreyes.github.io-6C63FF?style=flat-square&logo=rss&logoColor=white" alt="Blog" /></a>
 </p>
 
 <p align="center">
-  <i>📬 Happy to talk translation, tooling, or anything in between — feel free to reach out.</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+  <sub>Happy to talk translation, tooling, or anything in between.</sub>
 </p>

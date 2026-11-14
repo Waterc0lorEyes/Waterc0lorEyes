@@ -53,29 +53,13 @@
 
 ## 🗺️ 教育经历
 
-```mermaid
-timeline
-    title 🎒 我的学习轨迹
-    2023 : 🏫 河北师范大学<br>翻译（联合培养）· 前三年
-    2026 : ✈️ 英国斯特灵大学<br>最后一年
-    2027 : 🎓 毕业
-```
-
-| 📅 时间 | 🏫 学校 | 📚 专业 |
-| :---: | :---: | :---: |
-| 2023 – 2026 | 河北师范大学 | 翻译（联合培养）· 前三年 |
-| 2026 – 2027 | 英国斯特灵大学 | 翻译 · 最后一年 |
+<p align="center">
+  <img src="assets/timeline-zh.svg" alt="2023 河北师范大学 — 2026 英国斯特灵大学 — 2027 毕业" />
+</p>
 
 ---
 
 ## 🛠️ 技能工具箱
-
-<p>
-  <img src="https://img.shields.io/badge/-AI_Powered-6C63FF?style=flat-square&logo=openai&logoColor=white" alt="AI 驱动" />
-  <img src="https://img.shields.io/badge/-Translation-FF6B6B?style=flat-square&logo=googletranslate&logoColor=white" alt="翻译" />
-  <img src="https://img.shields.io/badge/-Scripting-4ECDC4?style=flat-square&logo=gnubash&logoColor=white" alt="脚本" />
-  <img src="https://img.shields.io/badge/-Web_Dev-FFE66D?style=flat-square&logo=html5&logoColor=black" alt="网页开发" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -88,33 +72,18 @@ timeline
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
----
-
-## 📊 数据面板
-
-<p>
-  <img src="https://img.shields.io/badge/dynamic/json?color=6C63FF&label=%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWaterc0lorEyes&style=flat-square&logo=github" alt="公开仓库" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=%E5%85%B3%E6%B3%A8%E8%80%85&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWaterc0lorEyes&style=flat-square&logo=github" alt="关注者" />
-  <img src="https://img.shields.io/github/stars/Waterc0lorEyes/automated-translation?label=%E5%90%8E%E7%AB%AF%20stars&color=4ECDC4&style=flat-square&logo=github" alt="后端 stars" />
-  <img src="https://img.shields.io/github/stars/Waterc0lorEyes/automated-translation-web?label=%E5%89%8D%E7%AB%AF%20stars&color=FFE66D&style=flat-square&logo=github" alt="前端 stars" />
-</p>
+<sub>另外：AI 辅助翻译、术语管理，以及不少脚本活儿。</sub>
 
 ---
 
 ## 📫 联系我
 
 <p>
-  <a href="mailto:meowuu@qq.com"><img src="https://img.shields.io/badge/-%E9%82%AE%E7%AE%B1-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱" /></a>
-  <a href="https://github.com/Waterc0lorEyes"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://waterc0loreyes.github.io"><img src="https://img.shields.io/badge/-%E5%8D%9A%E5%AE%A2-6C63FF?style=for-the-badge&logo=rss&logoColor=white" alt="博客" /></a>
+  <a href="mailto:meowuu@qq.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-meowuu%40qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="邮箱" /></a>
+  <a href="https://github.com/Waterc0lorEyes"><img src="https://img.shields.io/badge/github-Waterc0lorEyes-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://waterc0loreyes.github.io"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-waterc0loreyes.github.io-6C63FF?style=flat-square&logo=rss&logoColor=white" alt="博客" /></a>
 </p>
 
 <p align="center">
-  <i>📬 欢迎交流翻译、工具，或者任何你感兴趣的话题。</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="随机开发者语录" />
+  <sub>欢迎交流翻译、工具，或者任何你感兴趣的话题。</sub>
 </p>
