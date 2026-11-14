@@ -45,8 +45,8 @@ into the tooling behind it.
 
 ## 🧸 About me
 
-- 🎓 Translation undergraduate at **Hebei Normal University** (Sino-foreign cooperative programme), class of 2023
-- ✈️ One-year exchange at the **University of Stirling**, UK, from September 2026
+- 🎓 Translation major in a **joint programme** between Hebei Normal University and the **University of Stirling**
+- 🏫 First three years at Hebei Normal University, final year at Stirling (2026 – 2027)
 - 📖 Into languages, technology and cross-cultural communication
 - 💡 Using AI tools to speed up translation and code to solve real problems
 - 🌱 Exploring what AI + translation can do together
@@ -58,15 +58,15 @@ into the tooling behind it.
 ```mermaid
 timeline
     title 🎒 My academic journey
-    2023 : 🏫 Hebei Normal University<br>Translation (Sino-foreign cooperative)
-    2026 : ✈️ University of Stirling<br>Exchange year
-    2027 : 🎯 To be continued...
+    2023 : 🏫 Hebei Normal University<br>Translation (joint programme) · years 1–3
+    2026 : ✈️ University of Stirling<br>Final year
+    2027 : 🎓 Graduation
 ```
 
 | 📅 Period | 🏫 Institution | 📚 Programme |
 | :---: | :---: | :---: |
-| 2023 – 2026 | Hebei Normal University | Translation (Sino-foreign cooperative) |
-| 2026 – 2027 | University of Stirling | Translation & Interpreting |
+| 2023 – 2026 | Hebei Normal University | Translation (joint programme) · years 1–3 |
+| 2026 – 2027 | University of Stirling | Translation |
 
 ---
 
