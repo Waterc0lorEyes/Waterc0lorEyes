@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://tomatocat.art"><img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF-tomatocat.art-6C63FF?style=flat-square&logo=googlechrome&logoColor=white" alt="线上地址" /></a>
-  <a href="mailto:1364025579@qq.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-1364025579%40qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="邮箱" /></a>
+  <a href="mailto:meowuu@qq.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-meowuu%40qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="邮箱" /></a>
   <img src="https://komarev.com/ghpvc/?username=Waterc0lorEyes&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=6C63FF&style=flat-square" alt="访问量" />
 </p>
 
@@ -104,7 +104,7 @@ timeline
 ## 📫 联系我
 
 <p>
-  <a href="mailto:1364025579@qq.com"><img src="https://img.shields.io/badge/-%E9%82%AE%E7%AE%B1-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱" /></a>
+  <a href="mailto:meowuu@qq.com"><img src="https://img.shields.io/badge/-%E9%82%AE%E7%AE%B1-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱" /></a>
   <a href="https://github.com/Waterc0lorEyes"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://waterc0loreyes.github.io"><img src="https://img.shields.io/badge/-%E5%8D%9A%E5%AE%A2-6C63FF?style=for-the-badge&logo=rss&logoColor=white" alt="博客" /></a>
 </p>

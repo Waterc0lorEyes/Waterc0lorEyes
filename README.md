@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://tomatocat.art"><img src="https://img.shields.io/badge/live-tomatocat.art-6C63FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Live site" /></a>
-  <a href="mailto:1364025579@qq.com"><img src="https://img.shields.io/badge/email-1364025579%40qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:meowuu@qq.com"><img src="https://img.shields.io/badge/email-meowuu%40qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=Waterc0lorEyes&label=profile%20views&color=6C63FF&style=flat-square" alt="Profile views" />
 </p>
 
@@ -106,7 +106,7 @@ timeline
 ## 📫 Let's talk
 
 <p>
-  <a href="mailto:1364025579@qq.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:meowuu@qq.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Waterc0lorEyes"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://waterc0loreyes.github.io"><img src="https://img.shields.io/badge/-Blog-6C63FF?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
 </p>
