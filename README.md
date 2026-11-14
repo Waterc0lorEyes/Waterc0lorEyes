@@ -1,116 +1,122 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Yang+Yaqing;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E6%9D%A8%E4%BA%9A%E6%99%B4;%F0%9F%8C%8D+Translator+%7C+Coder+%7C+Explorer" alt="Typing SVG" />
+  <img src="assets/banner.svg" alt="Yang Yaqing — Translator × Coder" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Waterc0lorEyes&label=Profile+Views&color=6C63FF&style=flat-square" alt="Profile Views" />
+  <a href="https://tomatocat.art"><img src="https://img.shields.io/badge/live-tomatocat.art-6C63FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Live site" /></a>
+  <a href="mailto:1364025579@qq.com"><img src="https://img.shields.io/badge/email-1364025579%40qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Waterc0lorEyes&label=profile%20views&color=6C63FF&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
-  <b>English</b> | <a href="README.zh-CN.md">简体中文</a>
+  <b>English</b> · <a href="README.zh-CN.md">简体中文</a>
 </p>
 
 ---
 
-### 🧸 About Me
+## 🚀 Featured projects
 
-- 🎓 Undergraduate in Translation (Sino-foreign cooperative programme), Class of 2023,
-  Hebei Normal University
-- ✈️ One-year exchange at the **University of Stirling**, UK, starting September 2026
-- 📖 Passionate about languages, technology and cross-cultural communication
-- 💡 Using AI tools to speed up translation, and code to solve practical problems
+### 🎬 AI Subtitle & Article Translator
+
+A self-hosted translation site for subtitles and articles: drop in a VTT/SRT file or paste an
+article, and DeepSeek translates it sentence by sentence — side-by-side review, inline editing,
+AI annotations, and export to VTT / SRT / TXT / CSV.
+
+<p>
+  <a href="https://github.com/Waterc0lorEyes/automated-translation/actions"><img src="https://img.shields.io/github/actions/workflow/status/Waterc0lorEyes/automated-translation/ci.yml?branch=master&label=backend&logo=rust&style=flat-square" alt="Backend CI" /></a>
+  <a href="https://github.com/Waterc0lorEyes/automated-translation-web/actions"><img src="https://img.shields.io/github/actions/workflow/status/Waterc0lorEyes/automated-translation-web/ci.yml?branch=master&label=frontend&logo=vuedotjs&style=flat-square" alt="Frontend CI" /></a>
+  <a href="https://github.com/Waterc0lorEyes/automated-translation/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Waterc0lorEyes/automated-translation?color=6C63FF&style=flat-square" alt="MIT license" /></a>
+  <img src="https://img.shields.io/badge/backend-Rust-E43716?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/frontend-Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+</p>
+
+**[Backend](https://github.com/Waterc0lorEyes/automated-translation)** ·
+**[Frontend](https://github.com/Waterc0lorEyes/automated-translation-web)** ·
+**[Live demo](https://tomatocat.art)**
+
+### 📝 Translation blog
+
+20+ essays on translation practice and reflection — EN→ZH and ZH→EN, plus the occasional detour
+into the tooling behind it.
+
+`Hexo` · `Markdown` · **[waterc0loreyes.github.io](https://waterc0loreyes.github.io)**
+
+---
+
+## 🧸 About me
+
+- 🎓 Translation undergraduate at **Hebei Normal University** (Sino-foreign cooperative programme), class of 2023
+- ✈️ One-year exchange at the **University of Stirling**, UK, from September 2026
+- 📖 Into languages, technology and cross-cultural communication
+- 💡 Using AI tools to speed up translation and code to solve real problems
 - 🌱 Exploring what AI + translation can do together
 
 ---
 
-### 🗺️ Education
+## 🗺️ Education
 
 ```mermaid
 timeline
-    title 🎒 My Academic Journey
+    title 🎒 My academic journey
     2023 : 🏫 Hebei Normal University<br>Translation (Sino-foreign cooperative)
     2026 : ✈️ University of Stirling<br>Exchange year
-    2027 : 🎯 To Be Continued...
+    2027 : 🎯 To be continued...
 ```
 
 | 📅 Period | 🏫 Institution | 📚 Programme |
 | :---: | :---: | :---: |
-| 2023 - 2026 | Hebei Normal University | Translation (Sino-foreign cooperative) |
-| 2026 - 2027 | University of Stirling | Translation & Interpreting |
+| 2023 – 2026 | Hebei Normal University | Translation (Sino-foreign cooperative) |
+| 2026 – 2027 | University of Stirling | Translation & Interpreting |
 
 ---
 
-### 🛠️ Skills
+## 🛠️ Toolbox
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-AI_Powered-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Translation-FF6B6B?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Scripting-4ECDC4?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Web_Dev-FFE66D?style=for-the-badge&logo=html5&logoColor=black" />
+<p>
+  <img src="https://img.shields.io/badge/-AI_Powered-6C63FF?style=flat-square&logo=openai&logoColor=white" alt="AI powered" />
+  <img src="https://img.shields.io/badge/-Translation-FF6B6B?style=flat-square&logo=googletranslate&logoColor=white" alt="Translation" />
+  <img src="https://img.shields.io/badge/-Scripting-4ECDC4?style=flat-square&logo=gnubash&logoColor=white" alt="Scripting" />
+  <img src="https://img.shields.io/badge/-Web_Dev-FFE66D?style=flat-square&logo=html5&logoColor=black" alt="Web dev" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-> 🔥 **What I do best:** writing scripts and building websites with AI tools, and making translation
-> work faster and smoother.
-
----
-
-### 🚀 Projects
-
-*📌 More projects on the way — stay tuned.*
-
-| 🛠️ Project | 📝 Description | 🏷️ Tech |
-| :---: | :--- | :---: |
-| 📝 [Translation blog](https://waterc0loreyes.github.io) | 20+ essays on translation practice and reflection, covering EN→ZH and ZH→EN | Hexo + Markdown |
-| 💻 Personal website | Technical explorations and study notes | - |
-| 🌐 More projects | Coming soon | - |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Waterc0lorEyes">
-    <img src="https://img.shields.io/badge/dynamic/json?color=6C63FF&label=GitHub&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWaterc0lorEyes&style=for-the-badge&logo=github" />
-    <img src="https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWaterc0lorEyes&style=for-the-badge&logo=github" />
-    <img src="https://img.shields.io/badge/dynamic/json?color=4ECDC4&label=Following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWaterc0lorEyes&style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Waterc0lorEyes/Waterc0lorEyes.github.io">
-    <img src="https://img.shields.io/github/languages/count/Waterc0lorEyes/Waterc0lorEyes.github.io?color=6C63FF&style=for-the-badge&logo=github" />
-    <img src="https://img.shields.io/github/languages/top/Waterc0lorEyes/Waterc0lorEyes.github.io?color=FF6B6B&style=for-the-badge" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/-Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 📊 GitHub at a glance
 
-<p align="center">
-  <a href="mailto:1364025579@qq.com">
-    <img src="https://img.shields.io/badge/-QQ_Mail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Waterc0lorEyes">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/dynamic/json?color=6C63FF&label=repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWaterc0lorEyes&style=flat-square&logo=github" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWaterc0lorEyes&style=flat-square&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Waterc0lorEyes/automated-translation?label=backend%20stars&color=4ECDC4&style=flat-square&logo=github" alt="Backend stars" />
+  <img src="https://img.shields.io/github/stars/Waterc0lorEyes/automated-translation-web?label=frontend%20stars&color=FFE66D&style=flat-square&logo=github" alt="Frontend stars" />
+</p>
+
+---
+
+## 📫 Let's talk
+
+<p>
+  <a href="mailto:1364025579@qq.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Waterc0lorEyes"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://waterc0loreyes.github.io"><img src="https://img.shields.io/badge/-Blog-6C63FF?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
 </p>
 
 <p align="center">
-  <i>📬 Always happy to talk and collaborate — feel free to reach out!</i>
+  <i>📬 Happy to talk translation, tooling, or anything in between — feel free to reach out.</i>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
 </p>
