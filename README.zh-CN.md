@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-zh.svg?v=2" alt="杨亚晴 — 翻译 × 代码" />
+  <img src="assets/banner-2026-zh.svg" alt="杨亚晴 — 翻译 × 代码" />
 </p>
 
 <p align="center">
