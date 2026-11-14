@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Yang+Yaqing;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E6%9D%A8%E4%BA%9A%E6%99%B4;%F0%9F%8C%8D+Translator+%7C+Coder+%7C+Explorer" alt="Typing SVG" />
 </p>
@@ -8,36 +6,41 @@
   <img src="https://komarev.com/ghpvc/?username=Waterc0lorEyes&label=Profile+Views&color=6C63FF&style=flat-square" alt="Profile Views" />
 </p>
 
----
-
-### 🧸 About Me / 关于我
-
-- 🎓 河北师范大学 翻译（中外合作办学）2023级本科生
-- ✈️ 2026年9月赴 **英国斯特灵大学** 交换学习一年
-- 📖 热爱语言、技术与跨文化交流
-- 💡 善于用 AI 工具提升翻译效率，用代码解决实际问题
-- 🌱 正在探索 AI + 翻译的无限可能
+<p align="center">
+  <b>English</b> | <a href="README.zh-CN.md">简体中文</a>
+</p>
 
 ---
 
-### 🗺️ Education / 教育经历
+### 🧸 About Me
+
+- 🎓 Undergraduate in Translation (Sino-foreign cooperative programme), Class of 2023,
+  Hebei Normal University
+- ✈️ One-year exchange at the **University of Stirling**, UK, starting September 2026
+- 📖 Passionate about languages, technology and cross-cultural communication
+- 💡 Using AI tools to speed up translation, and code to solve practical problems
+- 🌱 Exploring what AI + translation can do together
+
+---
+
+### 🗺️ Education
 
 ```mermaid
 timeline
     title 🎒 My Academic Journey
-    2023 : 🏫 河北师范大学<br>翻译（中外合作办学）
-    2026 : ✈️ 英国斯特灵大学<br>University of Stirling
+    2023 : 🏫 Hebei Normal University<br>Translation (Sino-foreign cooperative)
+    2026 : ✈️ University of Stirling<br>Exchange year
     2027 : 🎯 To Be Continued...
 ```
 
-| 📅 时间 | 🏫 学校 | 📚 专业 |
+| 📅 Period | 🏫 Institution | 📚 Programme |
 | :---: | :---: | :---: |
-| 2023 - 2026 | 河北师范大学 | 翻译（中外合作办学） |
+| 2023 - 2026 | Hebei Normal University | Translation (Sino-foreign cooperative) |
 | 2026 - 2027 | University of Stirling | Translation & Interpreting |
 
 ---
 
-### 🛠️ Skills / 技能工具箱
+### 🛠️ Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/-AI_Powered-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
@@ -55,23 +58,24 @@ timeline
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-> 🔥 **擅长方向：** 用 AI 工具编写脚本、制作网页、辅助翻译工作，让技术为语言服务赋能。
+> 🔥 **What I do best:** writing scripts and building websites with AI tools, and making translation
+> work faster and smoother.
 
 ---
 
-### 🚀 Projects / 项目展示
+### 🚀 Projects
 
-*📌 更多项目正在路上，敬请期待～*
+*📌 More projects on the way — stay tuned.*
 
 | 🛠️ Project | 📝 Description | 🏷️ Tech |
 | :---: | :--- | :---: |
-| 📝 [翻译学习博客](https://waterc0loreyes.github.io) | 20+篇翻译实践与反思文章，涵盖笔译、英译汉、汉译英 | Hexo + Markdown |
-| 💻 个人网站 | 技术探索与学习笔记 | - |
-| 🌐 更多项目 | 敬请期待 | - |
+| 📝 [Translation blog](https://waterc0loreyes.github.io) | 20+ essays on translation practice and reflection, covering EN→ZH and ZH→EN | Hexo + Markdown |
+| 💻 Personal website | Technical explorations and study notes | - |
+| 🌐 More projects | Coming soon | - |
 
 ---
 
-### 📊 GitHub Stats / 统计面板
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Waterc0lorEyes">
@@ -88,10 +92,9 @@ timeline
   </a>
 </p>
 
-
 ---
 
-### 📫 Connect With Me / 与我联系
+### 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:1364025579@qq.com">
@@ -103,7 +106,7 @@ timeline
 </p>
 
 <p align="center">
-  <i>📬 欢迎交流与合作！Feel free to reach out!</i>
+  <i>📬 Always happy to talk and collaborate — feel free to reach out!</i>
 </p>
 
 ---
@@ -111,8 +114,3 @@ timeline
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
-<!--
-  ⭐️ 提示：把上面所有的 `Waterc0lorEyes` 替换成你的真实 GitHub 用户名
-  项目部分可以随时更新，添加更多内容~
--->
