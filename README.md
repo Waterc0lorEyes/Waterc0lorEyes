@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Yang Yaqing — Translator × Coder" />
+  <img src="assets/banner.svg?v=2" alt="Yang Yaqing — Translator × Coder" />
 </p>
 
 <p align="center">
